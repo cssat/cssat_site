@@ -1,0 +1,9 @@
+enable : true
+image : images/about/childandfather.jpg
+title : The Center for Social Sector Analytics & Technology
+description : Founded in 2019 as a result of a landmark intersection between the University of Washington’s School of Social Work and Washington State’s Department of Children Youth and Families (DCYF), the Center for Social Sector Analytics & Technology (CSSAT) was created with the goal of helping to address some of the most pressing information and systems challenges facing the social service sector in Washington state and beyond.
+aboutItem : 
+  - icon : tf-toolbox
+    content : Can technology tools help streamline bureaucratic and documentation burdens on social service providers, allowing for more interaction and support for children and families?
+  - icon : tf-circle-compass
+    content : Can data measure near real time human behavior change? Can contract performance monitoring be designed so that it is fair to both providers and service recipients?

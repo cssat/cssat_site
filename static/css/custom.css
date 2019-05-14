@@ -1,0 +1,15 @@
+
+.hero-area .block h1 {
+  text-transform: none;
+}
+
+
+.navbar-brand {
+    float: none;
+    height: none;
+}
+
+.logo {
+    margin-top: 0px;
+    display: inline-block;
+}

@@ -1,0 +1,41 @@
+enable : true
+heading : Our
+headingSpan : Projects
+filterList :
+  - filterType : knowledge
+    filterTitle : Knowledge
+    
+  - filterType : information
+    filterTitle : Information
+    
+  - filterType : tools
+    filterTitle : Tools
+
+portfolioItem :
+  - types : tools
+    image : images/portfolio/oliver.png
+    icon : tf-ion-android-search
+    URL : /projects/oliver
+    title : Oliver Service Management Platform
+    description : A web-based data collection application used by thousands of WA service providers.
+    
+  - types : information
+    image : images/portfolio/portal.png
+    icon : tf-ion-android-search
+    URL : http://www.pocdata.org
+    title : Data Portal
+    description : A powerful web tool that provides access to data about children and families who interact with the child welfare system.
+    
+  - types : knowledge
+    image : images/portfolio/acm.png
+    icon : tf-ion-android-search
+    URL : /projects/acm
+    title : Analytical Case Management
+    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    
+  - types : knowledge
+    image : images/portfolio/acm.png
+    icon : tf-ion-android-search
+    URL : #
+    title : Dependent Child legal representation evaluation
+    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!

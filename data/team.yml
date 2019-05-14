@@ -1,0 +1,53 @@
+enable : true
+heading : Our
+headingSpan : Team
+teamMember :
+  - image: images/team/team-1.jpg
+    name : Jooree Ahn
+    designation : Data Scientist
+    description : Jooree is a data scientist who focuses on the the child welfare system to contribute to the development of demographic and ecological, and system dynamic models of the social service system.
+    socialIcon :
+      #- icon : tf-ion-social-facebook
+      #  url : "#"
+      #- icon : tf-ion-social-twitter
+      #  url : "#"
+      #- icon : tf-ion-social-linkedin
+      #  url : "#"
+      #- icon : tf-ion-social-dribbble-outline
+      #  url : "#"
+      
+  - image : images/team/team-2.jpg
+    name : Marie Bolstad
+    designation : Director of Finance & Operations
+    description : Marie brings to CSSAT her skills in enhancing operational processes as well as her expertise in Title IV-E.
+      
+  - image : images/team/team-3.jpg
+    name : Matt Broadhead
+    designation : Lead Engineer
+    description : Matt leads the engineering of the Oliver program.
+    
+  - image : images/team/team-1.jpg
+    name : Marshal Funk
+    designation : Software Engineer
+    description : Marshall's career has always been about data management - how to collect and model data, store it securely, and add value to it through analysis, reporting, and being searchable.
+      
+  - image : images/team/team-2.jpg
+    name : Joe Mienko
+    designation : Chief Scientist
+    description : Joe is Chief Scientist at CSSAT and a Lecturer at the University of Washington School of Social Work.
+      
+  - image : images/team/team-3.jpg
+    name : Ariadna Norberg
+    designation : Engineer/Designer
+    description : Ariadna blends her technical knowledge & human-centered approach to technology in her development for both the engineering and data science teams of CSSAT.
+      
+  - image : images/team/team-4.jpg
+    name : Erik Oien
+    designation : Data Scientist
+    description : Erik has a background in direct services, child welfare and data science. Prior to working for CSSAT, Erik worked as a Data Scientist at Partners for Our Children were he worked on the Data Portal team and the Alliance for Child Welfare Excellence team.
+    
+  - image : images/team/team-4.jpg
+    name : Sarah Yatsko
+    designation : User Advocate/Business Analyst
+    description : Prior to joining CSSAT, Sarah was a Senior Research Analyst at the University of Washington where she conducted qualitative and quantitative research on large scale reforms in public education.
+    

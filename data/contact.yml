@@ -1,0 +1,14 @@
+enable : true
+heading : Get In
+headingSpan : Touch
+title : Contact Details
+content : Feel free to contact us for support or more information.
+enable_maps : false
+#mapLatitude : 51.5223477
+#mapLongitude: -0.1622023
+contactDetails :
+  - icon : tf-map-pin
+    info : "UW Tower, Seattle"
+    
+  - icon : tf-ion-ios-email-outline
+    info : "Email: cssat@uw.edu"

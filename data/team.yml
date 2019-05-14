@@ -1,12 +1,12 @@
-enable: true
-heading: Our
-headingSpan: Team
-teamMember:
+enable : true
+heading : Our
+headingSpan : Team
+teamMember :
   - image: images/team/team-1.jpg
-    name: Jooree Ahn
-    designation: Data Scientist
-    description: Jooree’s data science, technical, and social service expertise helps ensure that CSSAT activities have a sound evidence base. Jooree is a graduate of the UW School of Social Work and has also earned an MPH at UW’s School of Public Health in social and behavioral sciences.
-    socialIcon:
+    name : Jooree Ahn
+    designation : Data Scientist
+    description : Jooree is a data scientist who focuses on the the child welfare system to contribute to the development of demographic and ecological, and system dynamic models of the social service system.
+    socialIcon :
       #- icon : tf-ion-social-facebook
       #  url : "#"
       #- icon : tf-ion-social-twitter
@@ -15,38 +15,39 @@ teamMember:
       #  url : "#"
       #- icon : tf-ion-social-dribbble-outline
       #  url : "#"
-
-  - image: images/team/team-2.jpg
-    name: Marie Bolstad
-    designation: Director of Finance & Operations
-    description: Marie’s vast knowledge and skills in operational processes and Title IV-E helped get CSSAT off the ground and now keeps it running smoothly. Marie holds a BA in German language from Gonzaga University and an MPA from the UW’s Evans School of Public Policy & Governance.
-
-  - image: images/team/team-3.jpg
-    name: Matt Broadhead
-    designation: Lead Engineer
-    description: Matt taps his 20-plus years of experience in software engineering, computer science, and information technology to lead the engineering of the Oliver program.  He holds BA in Math from Macalester College, and a Master of Language Technologies from Carnegie Mellon University.
-
-  - image: images/team/team-1.jpg
-    name: Marshal Funk
-    designation: Software Engineer
-    description: Marshal brings two decades of software developing and data management, modeling and storage expertise from work in both small start ups as well as large companies including Amazon. He holds a BS from Kansas State University in history and a computer science minor.
-
-  - image: images/team/team-2.jpg
-    name: Joe Mienko
-    designation: Chief Scientist
-    description: Joe has experience as a social worker and a researcher in the child welfare system. He has studied predictive analytics as well as machine learning and data presentation for social service professionals. Joe holds an MSW and a PhD from UW’s School of Social Work.
-
-  - image: images/team/team-3.jpg
-    name: Ariadna Norberg
-    designation: Engineer/Designer
-    description: Ariadna blends technical knowledge & human-centered approach to technology for both engineering and data science work. She has experience in both web development and in engineering databases for social worker data. She holds a BS from UW’s School of Informatics.
-
-  - image: images/team/team-4.jpg
-    name: Erik Oien
-    designation: Data Scientist
-    description: Erik’s background is in child welfare and data science. He has worked in residential care in the child welfare system and has experience managing child welfare administrative data. He holds a BA from Evergreen State College and an MSc from The London School of Economics.
-
-  - image: images/team/team-4.jpg
-    name: Sarah Yatsko
-    designation: User Advocate/Business Analyst
-    description: Sarah brings a decade of direct service experience in juvenile court and child welfare systems and another conducting research in criminal justice and public education. She holds a BA from Loyola University in English Literature and an MPA from UW’s Evans School of Public Policy.
+      
+  - image : images/team/team-2.jpg
+    name : Marie Bolstad
+    designation : Director of Finance & Operations
+    description : Marie brings to CSSAT her skills in enhancing operational processes as well as her expertise in Title IV-E.
+      
+  - image : images/team/team-3.jpg
+    name : Matt Broadhead
+    designation : Lead Engineer
+    description : Matt leads the engineering of the Oliver program.
+    
+  - image : images/team/team-1.jpg
+    name : Marshal Funk
+    designation : Software Engineer
+    description : Marshall's career has always been about data management - how to collect and model data, store it securely, and add value to it through analysis, reporting, and being searchable.
+      
+  - image : images/team/team-2.jpg
+    name : Joe Mienko
+    designation : Chief Scientist
+    description : Joe is Chief Scientist at CSSAT and a Lecturer at the University of Washington School of Social Work.
+      
+  - image : images/team/team-3.jpg
+    name : Ariadna Norberg
+    designation : Engineer/Designer
+    description : Ariadna blends her technical knowledge & human-centered approach to technology in her development for both the engineering and data science teams of CSSAT.
+      
+  - image : images/team/team-4.jpg
+    name : Erik Oien
+    designation : Data Scientist
+    description : Erik has a background in direct services, child welfare and data science. Prior to working for CSSAT, Erik worked as a Data Scientist at Partners for Our Children were he worked on the Data Portal team and the Alliance for Child Welfare Excellence team.
+    
+  - image : images/team/team-4.jpg
+    name : Sarah Yatsko
+    designation : User Advocate/Business Analyst
+    description : Prior to joining CSSAT, Sarah was a Senior Research Analyst at the University of Washington where she conducted qualitative and quantitative research on large scale reforms in public education.
+    

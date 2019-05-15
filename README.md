@@ -1,6 +1,4 @@
-# cssat_site
-
-# Welcome to StackEdit!
+# CSSAT's Website
 This is the repo for the CSSAT organizational website. It is currently built upon the Hugo Meghna theme.
 
 ## Files
@@ -26,10 +24,27 @@ Navigating the files to edit the website is not too daunting. Within the root of
 
 > Within the root directory is also the README.md to edit this section of the GitHub page, as well as a few config files, etc
 
-## Run the project
+## Guide to Editing Text Content 
+You can either edit text content of the site directly through GitHub, or via the  text editor + GitHub/command line/GitHub Desktop/or however you run GitHub on your computer. 
+
+### How to edit directly through GitHub
+- Navigate to the file you'd like to make changes to, and click on the file
+- Click the pen icon on the right side of the bar above where the file content is displayed
+- Make your edits as needed
+- Fill out the commit information (name and optional, albeit recommended, description)
+- Create a separate branch for your changes and start a PR for those changes by pressing the " Create a new branch for this commit and start a pull request." radio button below "Commit directly to the master branch.". Do not commit directly to the master branch unless instructed to.
+- Name your branch and hit "Propose file change" below
+- You can request reviews on your pull request to speed up having appropriate people view/approve it. Nice job!
+
+
+## Running the Project
 
 Open the folder in RStudio, and run the following commands in RStudio's console:
 
 - library(blogdown)
 - blogdown::build_site()
 - blogdown::serve_site()
+
+The site should automatically open up in your browser, if not copy paste the link that RStudio gives you when running blogdown::serve_site(). 
+
+Keep in mind that the served site will automatically update sometimes, but not all the time. If your latest changes, or only some of your changes, aren't being updated automatically rerun blogdown::serve_site(), and check the new link that is opened. Close the previously served tabs to avoid confusion. 

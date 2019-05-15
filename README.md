@@ -34,7 +34,7 @@ You can either edit text content of the site directly through GitHub, or via the
 - Fill out the commit information (name and optional, albeit recommended, description)
 - Create a separate branch for your changes and start a PR for those changes by pressing the " Create a new branch for this commit and start a pull request." radio button below "Commit directly to the master branch.". Do not commit directly to the master branch unless instructed to.
 - Name your branch and hit "Propose file change" below
-- You can request reviews on your pull request to speed up having appropriate people view/approve it. Nice job!
+- You can request reviewers on your pull request to the right of the request page to speed up having appropriate people view/approve it. Nice job!
 
 
 ## Running the Project

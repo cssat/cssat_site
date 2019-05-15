@@ -1,15 +1,103 @@
-
+/* PREVIOUS CUSTOM CSS */
 .hero-area .block h1 {
   text-transform: none;
 }
 
-
 .navbar-brand {
-    float: none;
-    height: none;
+  float: none;
+  height: none;
 }
 
 .logo {
-    margin-top: 0px;
-    display: inline-block;
+  margin-top: 0px;
+  display: inline-block;
+}
+
+/* ADDED CUSTOM CSS */
+
+html,
+.section-bg {
+  background-color: #fff;
+}
+
+body,
+.bg-one,
+#preloader,
+.navigation {
+  background-color: #efefef;
+}
+
+.border:before,
+.single-blog {
+  background-color: #a9a9a9;
+}
+
+body,
+.block .btn {
+  color: #fff;
+}
+
+::-moz-selection,
+::selection,
+a,
+.btn-transparent:hover,
+.btn-transparent:focus,
+.btn-main,
+.btn-main:hover,
+.title h2,
+.title.title-white h2,
+.single-page-header,
+.about .block .icon-box,
+#about div div.content.text-center h3,
+.call-to-action-2,
+.call-to-action-2 p,
+.success,
+.service-2 .service-item i,
+.member-photo .mask ul li a,
+.member-photo .mask ul li a:hover,
+.single-blog,
+.social-icon ul li:hover a i,
+.copyright,
+#scrollUp,
+#post-thumb .owl-buttons,
+.post-excerpt .more a:hover,
+.widget-title > h3,
+.tab-excerpt h4 a,
+.tab-post-nav li a,
+.widget-content .tag,
+.widget-content .tag:hover,
+.post-pagination ul li a:hover,
+.post-pagination ul li.active a {
+  color: #a9a9a9;
+}
+
+.hero-area:before {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.about .block {
+  background: #dedede;
+}
+
+.about .block p {
+  color: #333;
+}
+
+.about .block .icon-box {
+  border-left: 2px solid #afbac4;
+  border-right: 2px solid #afbac4;
+}
+
+.about .block .icon-box:before {
+  border-top: 2px solid #afbac4;
+  border-right: 2px solid #afbac4;
+}
+
+.about .block .icon-box:after {
+  border-bottom: 2px solid #afbac4;
+  border-left: 2px solid #afbac4;
+}
+
+.portfolio-block .caption {
+  color: #737f8a;
 }

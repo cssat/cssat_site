@@ -59,7 +59,7 @@ a,
 .widget-title > h3,
 .tab-excerpt h4 a,
 .tab-post-nav li a {
-  color: #a9a9a9;
+  color: #878e94;
 }
 
 ::-moz-selection,
@@ -71,7 +71,7 @@ a,
 .post-excerpt .more a:hover,
 .member-photo .mask ul li a:hover,
 .social-icon ul li:hover a i {
-  color: #a9a9a9;
+  color: #878e94;
 }
 
 .hero-area:before {
@@ -83,8 +83,10 @@ a,
 }
 
 .about .block p,
-.section-bg p {
-  color: #737f8a;
+.section-bg p,
+.portfolio-block .caption,
+.form-group input {
+  color: #646d75;
 }
 
 .about .block .icon-box {
@@ -102,11 +104,6 @@ a,
   border-left: 2px solid #afbac4;
 }
 
-.portfolio-block .caption,
-.form-group input {
-  color: #737f8a;
-}
-
 .member-meta span {
   color: #57cbcc;
 }
@@ -115,8 +112,8 @@ a,
   background-color: #fff;
 }
 
-.title h2 {
-  color: #afbac4;
+h1, h2, h3, h4, h5, h6  {
+  color: #adb7bf;
 }
 
 .contact-form .form-control {

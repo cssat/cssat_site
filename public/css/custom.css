@@ -1,15 +1,127 @@
-
+/* PREVIOUS CUSTOM CSS */
 .hero-area .block h1 {
   text-transform: none;
 }
 
-
 .navbar-brand {
-    float: none;
-    height: none;
+  float: none;
+  height: none;
 }
 
 .logo {
-    margin-top: 0px;
-    display: inline-block;
+  margin-top: 0px;
+  display: inline-block;
+}
+
+/* ADDED CUSTOM CSS */
+
+html,
+.section-bg {
+  background-color: #fafafa;
+}
+
+body,
+.bg-one,
+#preloader,
+.navigation {
+  background-color: #efefef;
+}
+
+.border:before,
+.single-blog {
+  background-color: #a9a9a9;
+}
+
+/* body,
+.block .btn {
+  color: #fff;
+} */
+
+a,
+.btn-transparent:hover,
+.btn-transparent:focus,
+.btn-main,
+.btn-main:hover,
+.title h2,
+.title.title-white h2,
+.single-page-header,
+.about .block .icon-box,
+#about div div.content.text-center h3,
+.call-to-action-2,
+.call-to-action-2 p,
+.success,
+.service-2 .service-item i,
+.member-photo .mask ul li a,
+.single-blog,
+.copyright,
+#scrollUp,
+#post-thumb .owl-buttons,
+.widget-title > h3,
+.tab-excerpt h4 a,
+.tab-post-nav li a {
+  color: #a9a9a9;
+}
+
+::-moz-selection,
+::selection,
+.widget-content .tag,
+.widget-content .tag:hover,
+.post-pagination ul li a:hover,
+.post-pagination ul li.active a,
+.post-excerpt .more a:hover,
+.member-photo .mask ul li a:hover,
+.social-icon ul li:hover a i {
+  color: #a9a9a9;
+}
+
+.hero-area:before {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.about .block {
+  background: #dedede;
+}
+
+.about .block p,
+.section-bg p {
+  color: #737f8a;
+}
+
+.about .block .icon-box {
+  border-left: 2px solid #afbac4;
+  border-right: 2px solid #afbac4;
+}
+
+.about .block .icon-box:before {
+  border-top: 2px solid #afbac4;
+  border-right: 2px solid #afbac4;
+}
+
+.about .block .icon-box:after {
+  border-bottom: 2px solid #afbac4;
+  border-left: 2px solid #afbac4;
+}
+
+.portfolio-block .caption,
+.form-group input {
+  color: #737f8a;
+}
+
+.member-meta span {
+  color: #57cbcc;
+}
+
+.contact-form .form-control {
+  background-color: #fff;
+}
+
+.title h2 {
+  color: #afbac4;
+}
+
+.contact-form .form-control {
+  border-top-color: rgba(236, 239, 241, 0.3);
+  border-right-color: rgba(236, 239, 241, 0.3);
+  border-bottom-color: rgba(236, 239, 241, 0.3);
+  border-left-color: rgba(236, 239, 241, 0.3);
 }

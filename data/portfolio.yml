@@ -22,7 +22,7 @@ portfolioItem :
   - types : information
     image : images/portfolio/portal.png
     icon : tf-ion-android-search
-    URL : http://www.pocdata.org
+    URL : /projects/data-portal
     title : Data Portal
     description : A powerful web tool that provides access to data about children and families who interact with the child welfare system.
     

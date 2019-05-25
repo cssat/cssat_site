@@ -9,6 +9,11 @@
   </url>
   
   <url>
+    <loc>/cssat/projects/data-portal/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/cssat/projects/oliver/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
@@ -21,11 +26,6 @@
   
   <url>
     <loc>/cssat/projects/acm/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/cssat/projects/data-portal/</loc>
     <priority>0</priority>
   </url>
   

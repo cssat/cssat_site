@@ -7,7 +7,7 @@ theme = "meghna-hugo"
 [menu]
     [[menu.nav]]
     name = "About Us"
-    URL = "about"
+    URL = "cssat"
     weight = 2
 
     #[[menu.nav]]

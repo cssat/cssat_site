@@ -112,7 +112,12 @@ a,
   background-color: #fff;
 }
 
-h1, h2, h3, h4, h5, h6  {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: #949da8;
 }
 
@@ -121,4 +126,9 @@ h1, h2, h3, h4, h5, h6  {
   border-right-color: rgba(236, 239, 241, 0.3);
   border-bottom-color: rgba(236, 239, 241, 0.3);
   border-left-color: rgba(236, 239, 241, 0.3);
+}
+
+#cssat {
+  padding-top: 70px;
+  padding-bottom: 0px;
 }

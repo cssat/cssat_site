@@ -34,8 +34,8 @@ portfolioItem :
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
   - types : knowledge
-    image : images/portfolio/acm.png
+    image : images/portfolio/dclre.png
     icon : tf-ion-android-search
-    URL : #
-    title : Dependent Child legal representation evaluation
+    URL : /projects/dclre
+    title : Dependent Child Legal Representation Evaluation
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!

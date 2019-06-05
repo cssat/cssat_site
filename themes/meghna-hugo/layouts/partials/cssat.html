@@ -1,26 +1,25 @@
-{{ if .Site.Data.about2.enable }}
-{{"<!-- about 2 -->" | safeHTML}}
-<section class="section about-2 padding-0 bg-dark">
+{{ if .Site.Data.cssat.enable }} {{"<!-- cssat about -->" | safeHTML}}
+<section class="section about-2 " id="cssat">
   <div class="container-fluid">
     <div class="row section-bg">
       <div class="col-md-6 padding-0 ">
         <img
           class="img-responsive"
-          src="{{ .Site.Data.about2.image | absURL}}"
+          src="{{ .Site.Data.cssat.image | absURL}}"
           alt="image"
         />
       </div>
       <div class="col-md-6">
         <div class="content-block">
-          {{ with.Site.Data.about2.title }}
+          {{ with.Site.Data.cssat.title }}
           <h2>{{ . }}</h2>
-          {{ end }} {{ with.Site.Data.about2.description }}
+          {{ end }} {{ with.Site.Data.cssat.description }}
           <p>{{ . }}</p>
-          {{ end }} {{ with.Site.Data.about2.description2 }}
+          {{ end }} {{ with.Site.Data.cssat.description2 }}
           <p>{{ . }}</p>
           {{ end }}
           <div class="row">
-            {{ range.Site.Data.about2.aboutItem }}
+            {{ range.Site.Data.cssat.aboutItem }}
             <div class="col-md-6">
               <div class="media">
                 <div class="pull-left">
@@ -42,4 +41,5 @@
     </div>
   </div>
 </section>
-{{"<!-- /about 2 -->" | safeHTML}} {{ end }}
+{{"<!-- /cssat about -->" | safeHTML}}
+{{ end }}

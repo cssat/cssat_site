@@ -17,7 +17,7 @@ portfolioItem :
     icon : tf-ion-android-search
     URL : /projects/oliver
     title : Oliver Service Management Platform
-    description : A web-based data collection application used by thousands of WA service providers.
+    description : Web-based application designed to streamline reporting requirements for social service providers.
     
   - types : information
     image : images/portfolio/portal.png

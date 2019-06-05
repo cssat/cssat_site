@@ -1,0 +1,10 @@
+---
+title: "Dependent Child Legal Representation Evaluation"
+image: images/projects/dclre.jpg
+---
+
+The Dependent Child Legal Representation Evaluation is an attempt to understand whether or not legal representation would benefit children in dependency proceedings (court hearings to determine if and when a child who has been removed from a parent or guardian’s care will return.)  The study is being conducted in four Washington counties, two of which are piloting a legislatively mandated and funded program that provides trained attorneys for each child in a dependency case.  Thus, CSSAT’s study is part of a deliberate effort by the legislature to consider whether to expand the right of dependent children to legal representation by assessing and quantifying the impact within a pilot program.
+
+Unlike for juvenile delinquency, there is no legal presumption that children have a right to be represented by an attorney in a dependency proceeding. In response to continuing concerns over whether the legal voice of children should be more fully heard in dependency cases in Washington State and whether the appointment of attorneys to represent these children will affect the trajectory of the case and their lives, the 2017 Washington State Legislature enacted 2nd Engrossed Substitute Bill 5890. Among other things, this law appropriated funds for the legal representation of foster children in two Washington counties at the initial shelter care hearing. In addition to authorizing the pilot, the legislature also appropriated funds to support an evaluation focused on the experiences of children in these two counties who are represented by trained attorneys representing their stated and legal interests, and those in two other counties who are not. 
+
+By tracking indicators such as level of trust child describes for his or her attorney, the child’s perception of their voice in the courtroom, and the rate of permanent placement within a year, CSSAT researchers hope to uncover what effect, if any, the provision of trained, standards-based attorneys to dependent youth has on the timeline of the dependency processes and on child outcomes.

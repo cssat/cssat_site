@@ -11,12 +11,14 @@
     
     
     <item>
-      <title></title>
+      <title>Analytical Case Management</title>
       <link>/cssat/projects/acm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/cssat/projects/acm/</guid>
-      <description></description>
+      <description>In chess, every move has a purpose. Social service case management obviously cannot be be undertaken with this much unceasing calculation, nor should we want to practice in this way, but the arc of a case should generally align with a predetermined strategy.
+The analytical case management (ACM) curriculum is designed to help social workers use data in the context of law and policy to develop such a strategy.
+The ACM curriculum is the result of nearly two decades of social work practice and research on the part of the curriculum&amp;rsquo;s author, Joe Mienko.</description>
     </item>
     
     <item>
@@ -26,6 +28,15 @@
       
       <guid>/cssat/projects/data-portal/</guid>
       <description>The Child Well-Being Data Portal is a joint project of the Center for Social Sector Analytics and Technology (CSSAT) and Partners for Our Children (POC) that promotes an understanding of the child welfare system by providing detailed, customizable data about children and families served in Washington State and beyond. Incorporating a collection of interactive data visualization tools, its goal is to put information in to the hands of social workers, parents, advocates, and policy-makers, to help improve the lives of vulnerable children and families touched by the child welfare system.</description>
+    </item>
+    
+    <item>
+      <title>Dependent Child Legal Representation Evaluation</title>
+      <link>/cssat/projects/dclre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cssat/projects/dclre/</guid>
+      <description>The Dependent Child Legal Representation Evaluation is an attempt to understand whether or not legal representation would benefit children in dependency proceedings (court hearings to determine if and when a child who has been removed from a parent or guardian’s care will return.) The study is being conducted in four Washington counties, two of which are piloting a legislatively mandated and funded program that provides trained attorneys for each child in a dependency case.</description>
     </item>
     
     <item>

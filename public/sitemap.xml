@@ -4,7 +4,6 @@
   
   <url>
     <loc>/cssat/projects/acm/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -19,6 +18,10 @@
   
   <url>
     <loc>/cssat/projects/data-portal/</loc>
+  </url>
+  
+  <url>
+    <loc>/cssat/projects/dclre/</loc>
   </url>
   
   <url>

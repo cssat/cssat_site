@@ -7,7 +7,7 @@ theme = "meghna-hugo"
 [menu]
     [[menu.nav]]
     name = "About Us"
-    URL = "about"
+    URL = "cssat"
     weight = 2
 
     #[[menu.nav]]
@@ -30,10 +30,10 @@ theme = "meghna-hugo"
     #URL = "pricing"
     #weight = 6
 
-    [[menu.nav]]
-    name = "Blog"
-    URL = "blog"
-    weight = 7
+    #[[menu.nav]]
+    #name = "Blog"
+    #URL = "blog"
+    #weight = 7
 
     [[menu.nav]]
     name = "Contact"

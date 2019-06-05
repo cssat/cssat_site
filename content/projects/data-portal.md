@@ -1,17 +1,13 @@
 ---
 title: "Data Portal"
-date: 2018-09-12T14:51:12+06:00
-author: John Doe
 image: images/projects/computer_0.jpg
 ---
 
-> Providing Access to Child Welfare Data to Encourage Better Decisions
+The Child Well-Being Data Portal is a joint project of the Center for Social Sector Analytics and Technology (CSSAT) and Partners for Our Children (POC) that promotes an understanding of the child welfare system by providing detailed, customizable data about children and families served in Washington State and beyond. Incorporating a collection of interactive data visualization tools, its goal is to put information in to the hands of social workers, parents, advocates, and policy-makers, to help improve the lives of vulnerable children and families touched by the child welfare system.
 
-With today's technology, we can do so much more to help people easily access and understand data – going beyond complex spreadsheets with rows and rows of numbers. Through a data-sharing agreement with the Washington DSHS Children's Administration, Partners for Our Children developed the Washington State Child Well-Being Data Portal– a powerful web tool that provides access to data about children and families who interact with the child welfare system. The portal aims to enhance transparency, build understanding and provide decision support for child welfare practitioners and policymakers.
+The data for these visualization tools comes from multiple source, most notably from Washington state’s Department of Children, Youth and Families (DCYF.) Through a partnership with DCYF, we have access to quarterly deidentified data extracts from FamLink, the case management information system adopted in 2009. Additional data sources include the US Census Bureau, Washington’s Office of Financial Management, the National Data Archive of Child Abuse and Neglect (NDACAN), and others as indicated.
 
-Since the Data Portal launched in 2013, it's become a go-to resource for many stakeholders – everyone from policymakers to family court judges to agency staff to advocacy partners have found the tool to be valuable in helping understand how the system is working and what areas may need improvement.
-
-Just as businesses use data to inform decisions, it is critical for child welfare systems to use readily available data when making decisions about practice or policy, especially when these decisions have potential to significantly affect the lives of children and families. Where is the greatest need? Who is overrepresented in the system? Where do we find the best outcomes and what is that office doing differently in order to achieve these outcomes? Many questions that can be addressed through data and we believe this tool is a step in the right direction for child welfare in Washington State. 
+If you publish data from the Portal, please cite CSSAT and POC and link to the Data Portal, where appropriate. We also recommend reading the Info page for the measure(s) to gain a clear understanding of all details related to the data. 
 
 
-#### [Visit the Data Portal](http://pocdata.org/)
+> #### [Visit the Data Portal](http://pocdata.org/)

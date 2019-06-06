@@ -24,18 +24,18 @@ portfolioItem :
     icon : tf-ion-android-search
     URL : /projects/data-portal
     title : Data Portal
-    description : A powerful web tool that provides access to data about children and families who interact with the child welfare system.
+    description : A web tool that provides detailed, customizable data about children and families served in Washington state's child welfare system.
     
   - types : knowledge
     image : images/portfolio/acm.png
     icon : tf-ion-android-search
     URL : /projects/acm
     title : Analytical Case Management
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    description : A case management curriculum to help social workers in the field utilize principles of measurement, analysis, and logical reasoning.
     
   - types : knowledge
     image : images/portfolio/dclre.png
     icon : tf-ion-android-search
     URL : /projects/dclre
     title : Dependent Child Legal Representation Evaluation
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    description : An evaluation of a Washington state pilot program to understand if and how children in dependency proceedings benefit from legal representation.

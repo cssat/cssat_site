@@ -1,4 +1,4 @@
-baseURL = "https://dazzling-keller-04f0ce.netlify.com"
+baseURL = "http://dazzling-keller-04f0ce.netlify.com"
 languageCode = "en-us"
 title = "CSSAT | Center for Social Sector Analytics & Technology"
 theme = "meghna-hugo"

@@ -25,12 +25,12 @@
   </url>
   
   <url>
-    <loc>/projects/oliver/</loc>
+    <loc>/projects/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/projects/</loc>
-    <priority>0</priority>
+    <loc>/projects/sprout/</loc>
   </url>
   
   <url>

@@ -13,10 +13,10 @@ filterList :
 
 portfolioItem :
   - types : tools
-    image : images/portfolio/oliver.png
+    image : images/portfolio/sprout.jpg
     icon : tf-ion-android-search
-    URL : /projects/oliver
-    title : Oliver Service Management Platform
+    URL : /projects/sprout
+    title : Sprout Service Management Platform
     description : Web-based application designed to streamline reporting requirements for social service providers.
     
   - types : information

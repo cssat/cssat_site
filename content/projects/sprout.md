@@ -1,6 +1,6 @@
 ---
 title: "Sprout"
-image: images/projects/oliverdemo.png
+image: images/projects/sproutdemo.jpg
 ---
 
 Sprout is a web-based application designed to help providers of child welfare services to streamline time-consuming business processes including tracking types and frequency of services rendered.

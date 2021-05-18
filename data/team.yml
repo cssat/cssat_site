@@ -36,10 +36,10 @@ teamMember:
     designation: Chief Scientist
     description: Joe has experience as a social worker and a researcher in the child welfare system. He has studied predictive analytics as well as machine learning and data presentation for social service professionals. Joe holds an MSW and a PhD from UW’s School of Social Work.
 
-  - image: images/team/ari.jpg
-    name: Ariadna Norberg
-    designation: Engineer/Designer
-    description: Ariadna blends technical knowledge & human-centered approach to technology for both engineering and data science work. She has experience in both web development and in engineering databases for social worker data. She holds a BS from UW’s School of Informatics.
+  - image: images/team/lucy.jpg
+    name: Lucy Yang
+    designation: Software Engineer
+    description: Lucy has worked as a software engineer in various fields including biotech, data visualization, and is excited to learn and contribute more to the social work space. She holds a BS from University of California San Diego in biology and a computer science minor.
 
   - image: images/team/erik.jpg
     name: Erik Oien

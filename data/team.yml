@@ -36,15 +36,20 @@ teamMember:
     designation: Chief Scientist
     description: Joe has experience as a social worker and a researcher in the child welfare system. He has studied predictive analytics as well as machine learning and data presentation for social service professionals. Joe holds an MSW and a PhD from UW’s School of Social Work.
 
-  - image: images/team/lucy.jpg
-    name: Lucy Yang
-    designation: Software Engineer
-    description: Lucy has worked as a software engineer in various fields including biotech, data visualization, and is excited to learn and contribute more to the social work space. She holds a BS from University of California San Diego in biology and a computer science minor.
-
   - image: images/team/erik.jpg
     name: Erik Oien
     designation: Data Scientist
     description: Erik’s background is in child welfare and data science. He has worked in residential care in the child welfare system and has experience managing child welfare administrative data. He holds a BA from Evergreen State College and an MSc from The London School of Economics.
+
+  - image: images/team/john.jpg
+    name: John Subaykan
+    designation: Software Engineer
+    description: John brings over 20 years of software development in various industries as well as engineering team leadership and technical program management experience. He holds a BS in civil engineering from the University of Washington.
+
+  - image: images/team/lucy.jpg
+    name: Lucy Yang
+    designation: Software Engineer
+    description: Lucy has worked as a software engineer in various fields including biotech, data visualization, and is excited to learn and contribute more to the social work space. She holds a BS from University of California San Diego in biology and a computer science minor.
 
   - image: images/team/sarah.jpg
     name: Sarah Yatsko

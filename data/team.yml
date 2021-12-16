@@ -31,11 +31,6 @@ teamMember:
     designation: Software Engineer
     description: Marshal brings two decades of software developing and data management, modeling and storage expertise from work in both small start ups as well as large companies including Amazon. He holds a BS from Kansas State University in history and a computer science minor.
 
-  - image: images/team/joe.jpg
-    name: Joe Mienko
-    designation: Chief Scientist
-    description: Joe has experience as a social worker and a researcher in the child welfare system. He has studied predictive analytics as well as machine learning and data presentation for social service professionals. Joe holds an MSW and a PhD from UW’s School of Social Work.
-
   - image: images/team/erik.jpg
     name: Erik Oien
     designation: Data Scientist

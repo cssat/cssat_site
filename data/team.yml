@@ -2,11 +2,6 @@ enable: true
 heading: Our
 headingSpan: Team
 teamMember:
-  - image: images/team/gregor.jpg
-    name: Gregor Thomas
-    designation: Principal Data Scientist
-    description: Gregor has over a decade of experience making data useful and understandable in both the public and private sectors. Gregor holds a MS in Quantitative Ecology and Resource Management from UW and a BS in Mathematics from Havey Mudd College.
-
   - image: images/team/jooree.jpg
     name: Jooree Ahn
     designation: Data Scientist
@@ -45,6 +40,11 @@ teamMember:
     name: John Subaykan
     designation: Lead Engineer
     description: John brings over 20 years of software development in various industries as well as engineering team leadership and technical program management experience. He holds a BS in civil engineering from the University of Washington.
+
+  - image: images/team/gregor.jpg
+    name: Gregor Thomas
+    designation: Principal Data Scientist
+    description: Gregor has over a decade of experience making data useful and understandable in both the public and private sectors. Gregor holds a MS in Quantitative Ecology and Resource Management from UW and a BS in Mathematics from Havey Mudd College.
 
   - image: images/team/lucy.jpg
     name: Lucy Yang

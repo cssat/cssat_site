@@ -23,7 +23,7 @@ teamMember:
 
   - image: images/team/matt.jpg
     name: Matt Broadhead
-    designation: Lead Engineer
+    designation: Software Engineer
     description: Matt taps his 20-plus years of experience in software engineering, computer science, and information technology to lead the engineering of the Sprout program.  He holds BA in Math from Macalester College, and a Master of Language Technologies from Carnegie Mellon University.
 
   - image: images/team/marshal.jpg
@@ -38,8 +38,13 @@ teamMember:
 
   - image: images/team/john.jpg
     name: John Subaykan
-    designation: Software Engineer
+    designation: Lead Engineer
     description: John brings over 20 years of software development in various industries as well as engineering team leadership and technical program management experience. He holds a BS in civil engineering from the University of Washington.
+
+  - image: images/team/gregor.jpg
+    name: Gregor Thomas
+    designation: Principal Data Scientist
+    description: Gregor has over a decade of experience making data useful and understandable in both the public and private sectors. Gregor holds a MS in Quantitative Ecology and Resource Management from UW and a BS in Mathematics from Havey Mudd College.
 
   - image: images/team/lucy.jpg
     name: Lucy Yang
@@ -48,5 +53,5 @@ teamMember:
 
   - image: images/team/sarah.jpg
     name: Sarah Yatsko
-    designation: User Advocate/Business Analyst
+    designation: Interim Director
     description: Sarah brings a decade of direct service experience in juvenile court and child welfare systems and another conducting research in criminal justice and public education. She holds a BA from Loyola University in English Literature and an MPA from UW’s Evans School of Public Policy.

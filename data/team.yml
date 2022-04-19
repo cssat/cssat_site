@@ -31,11 +31,6 @@ teamMember:
     designation: Software Engineer
     description: Marshal brings two decades of software developing and data management, modeling and storage expertise from work in both small start ups as well as large companies including Amazon. He holds a BS from Kansas State University in history and a computer science minor.
 
-  - image: images/team/erik.jpg
-    name: Erik Oien
-    designation: Data Scientist
-    description: Erik’s background is in child welfare and data science. He has worked in residential care in the child welfare system and has experience managing child welfare administrative data. He holds a BA from Evergreen State College and an MSc from The London School of Economics.
-
   - image: images/team/john.jpg
     name: John Subaykan
     designation: Lead Engineer

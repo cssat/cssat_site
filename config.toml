@@ -60,12 +60,12 @@ custom_css = ["css/custom.css"]
     btnURL="#portfolio"
 
     # call to action
-    #[params.cta]
-    #enable = true
-    #title = "Great Design & Incredible Features"
+    [params.cta]
+    enable = true
+    title = "We Are Hiring!"
     #content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
-    #btnURL = "#"
-    #btnText = "Start a project with us"
+    btnURL = "https://uwhires.admin.washington.edu/eng/candidates/default.cfm?szCategory=jobprofile&szOrderID=204529&szCandidateID=0&szReturnToSearch=1"
+    btnText = "University of Washington Job Listing"
 
     # counter
     #[params.counter]

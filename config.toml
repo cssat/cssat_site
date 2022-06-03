@@ -62,10 +62,10 @@ custom_css = ["css/custom.css"]
     # call to action
     [params.cta]
     enable = true
-    title = "We Are Hiring!"
+    title = "Current Job Openings"
     #content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
     btnURL = "https://uwhires.admin.washington.edu/eng/candidates/default.cfm?szCategory=jobprofile&szOrderID=204529&szCandidateID=0&szReturnToSearch=1"
-    btnText = "University of Washington Job Listing"
+    btnText = "Software Engineer - 2 Openings"
 
     # counter
     #[params.counter]

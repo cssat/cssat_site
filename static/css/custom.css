@@ -104,6 +104,10 @@ a,
   border-left: 2px solid #afbac4;
 }
 
+.call-to-action .btn-main {
+  color: #fff;
+}
+
 .member-meta span {
   color: #57cbcc;
 }

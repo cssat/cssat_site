@@ -21,11 +21,6 @@ teamMember:
     designation: Director of Finance & Operations
     description: Marie’s vast knowledge and skills in operational processes and Title IV-E helped get CSSAT off the ground and now keeps it running smoothly. Marie holds a BA in German language from Gonzaga University and an MPA from the UW’s Evans School of Public Policy & Governance.
 
-  - image: images/team/marshal.jpg
-    name: Marshal Funk
-    designation: Software Engineer
-    description: Marshal brings two decades of software developing and data management, modeling and storage expertise from work in both small start ups as well as large companies including Amazon. He holds a BS from Kansas State University in history and a computer science minor.
-
   - image: images/team/john.jpg
     name: John Subaykan
     designation: Lead Engineer
@@ -34,7 +29,7 @@ teamMember:
   - image: images/team/gregor.jpg
     name: Gregor Thomas
     designation: Principal Data Scientist
-    description: Gregor has over a decade of experience making data useful and understandable in both the public and private sectors. Gregor holds a MS in Quantitative Ecology and Resource Management from UW and a BS in Mathematics from Havey Mudd College.
+    description: Gregor has over a decade of experience making data useful and understandable in both the public and private sectors. Gregor holds a MS in Quantitative Ecology and Resource Management from UW and a BS in Mathematics from Harvey Mudd College.
 
   - image: images/team/lucy.jpg
     name: Lucy Yang

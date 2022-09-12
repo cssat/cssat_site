@@ -21,6 +21,11 @@ teamMember:
     designation: Director of Finance & Operations
     description: Marie’s vast knowledge and skills in operational processes and Title IV-E helped get CSSAT off the ground and now keeps it running smoothly. Marie holds a BA in German language from Gonzaga University and an MPA from the UW’s Evans School of Public Policy & Governance.
 
+  - image: images/team/chris.jpg
+    name: Chris Hughes
+    designation: Software Engineer
+    description: Chris has almost a decade of experience in the public sector in various roles, including software and data engineering and program management. Chris holds a BA in International Studies from UW, an MBA from Saint Martin’s University, and is pursuing a BS in Computer Science from Oregon State University.
+
   - image: images/team/john.jpg
     name: John Subaykan
     designation: Lead Engineer

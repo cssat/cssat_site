@@ -26,6 +26,11 @@ teamMember:
     designation: Software Engineer
     description: Chris has almost a decade of experience in the public sector in various roles, including software and data engineering and program management. Chris holds a BA in International Studies from UW, an MBA from Saint Martin’s University, and is pursuing a BS in Computer Science from Oregon State University.
 
+  - image: images/team/keith.jpg
+    name: Keith Ligon
+    designation: Software Engineer
+    description: Keith has over 20 years experience as a software engineer in various fields. He has worked on projects in defense, retail, supplychain and HR systems. Keith holds a BS in Computer Science from Virginia Tech with a math minor.
+
   - image: images/team/john.jpg
     name: John Subaykan
     designation: Lead Engineer

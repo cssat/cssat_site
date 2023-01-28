@@ -31,6 +31,11 @@ teamMember:
     designation: Software Engineer
     description: Keith has over 20 years experience as a software engineer in various fields. He has worked on projects in defense, retail, supplychain and HR systems. Keith holds a BS in Computer Science from Virginia Tech with a math minor.
 
+  - image: images/team/supriya.jpg
+    name: Supriya Sharma
+    designation: Web Computing Specialist
+    description: Supriya has worked on various projects and brings knowledge from multiple backgrounds into the social sector. She holds a BS in Biology and a Minor in Informatics from the University of Washington.
+
   - image: images/team/john.jpg
     name: John Subaykan
     designation: Lead Engineer

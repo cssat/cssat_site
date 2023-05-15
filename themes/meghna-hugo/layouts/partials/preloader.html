@@ -1,3 +1,4 @@
+{{ if site.Params.preloader.enable }}
 {{"<!-- Start Preloader -->"| safeHTML}}
 <div id="preloader">
     <div class="preloader">
@@ -15,3 +16,4 @@
     </div>
 </div>
 {{"<!-- End Preloader -->"| safeHTML}}
+{{ end }}

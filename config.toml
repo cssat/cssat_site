@@ -47,6 +47,10 @@ logo = "images/logo.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBI14J_PNWVd-m0gnUBkjmhoQyNyd7nllA"
 custom_css = ["css/custom.css"]
 
+    # preloader
+    [params.preloader]
+    enable = false
+
     # Banner Section
     [params.banner]
     enable = true

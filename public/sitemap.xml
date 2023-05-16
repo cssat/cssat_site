@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.cssat.org/projects/acm/</loc>
+    <loc>/projects/acm/</loc>
   </url><url>
-    <loc>https://www.cssat.org/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://www.cssat.org/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>https://www.cssat.org/projects/data-portal/</loc>
+    <loc>/projects/data-portal/</loc>
   </url><url>
-    <loc>https://www.cssat.org/projects/dclre/</loc>
+    <loc>/projects/dclre/</loc>
   </url><url>
-    <loc>https://www.cssat.org/projects/</loc>
+    <loc>/projects/</loc>
   </url><url>
-    <loc>https://www.cssat.org/projects/sprout/</loc>
+    <loc>/projects/sprout/</loc>
   </url><url>
-    <loc>https://www.cssat.org/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

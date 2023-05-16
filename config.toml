@@ -2,7 +2,6 @@ baseURL = "https://www.cssat.org/"
 languageCode = "en-us"
 title = "CSSAT | Center for Social Sector Analytics & Technology"
 theme = "meghna-hugo"
-relativeURLs = true
 
 # Menu
 [menu]

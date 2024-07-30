@@ -2,48 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on CSSAT | Center for Social Sector Analytics &amp; Technology</title>
-    <link>https://www.cssat.org/projects/</link>
+    <link>http://localhost:4321/projects/</link>
     <description>Recent content in Projects on CSSAT | Center for Social Sector Analytics &amp; Technology</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.cssat.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="http://localhost:4321/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analytical Case Management</title>
-      <link>https://www.cssat.org/projects/acm/</link>
+      <link>http://localhost:4321/projects/acm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.cssat.org/projects/acm/</guid>
-      <description>In chess, every move has a purpose. Social service case management obviously cannot be be undertaken with this much unceasing calculation, nor should we want to practice in this way, but the arc of a case should generally align with a predetermined strategy.
-The analytical case management (ACM) curriculum is designed to help social workers use data in the context of law and policy to develop such a strategy.
-The ACM curriculum is the result of nearly two decades of social work practice and research on the part of the curriculum&amp;rsquo;s author, Joe Mienko.</description>
+      <guid>http://localhost:4321/projects/acm/</guid>
+      <description>In chess, every move has a purpose. Social service case management obviously cannot be be undertaken with this much unceasing calculation, nor should we want to practice in this way, but the arc of a case should generally align with a predetermined strategy.&#xA;The analytical case management (ACM) curriculum is designed to help social workers use data in the context of law and policy to develop such a strategy.&#xA;The ACM curriculum is the result of nearly two decades of social work practice and research on the part of the curriculum&amp;rsquo;s author, Joe Mienko.</description>
     </item>
-    
     <item>
       <title>Data Portal</title>
-      <link>https://www.cssat.org/projects/data-portal/</link>
+      <link>http://localhost:4321/projects/data-portal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.cssat.org/projects/data-portal/</guid>
+      <guid>http://localhost:4321/projects/data-portal/</guid>
       <description>The Child Well-Being Data Portal is a joint project of the Center for Social Sector Analytics and Technology (CSSAT) and Partners for Our Children (POC) that promotes an understanding of the child welfare system by providing detailed, customizable data about children and families served in Washington State and beyond. Incorporating a collection of interactive data visualization tools, its goal is to put information in to the hands of social workers, parents, advocates, and policy-makers, to help improve the lives of vulnerable children and families touched by the child welfare system.</description>
     </item>
-    
     <item>
       <title>Dependent Child Legal Representation Evaluation</title>
-      <link>https://www.cssat.org/projects/dclre/</link>
+      <link>http://localhost:4321/projects/dclre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.cssat.org/projects/dclre/</guid>
+      <guid>http://localhost:4321/projects/dclre/</guid>
       <description>The Dependent Child Legal Representation Evaluation is an attempt to understand whether or not legal representation would benefit children in dependency proceedings (court hearings to determine if and when a child who has been removed from a parent or guardian’s care will return.) The study is being conducted in four Washington counties, two of which are piloting a legislatively mandated and funded program that provides trained attorneys for each child in a dependency case.</description>
     </item>
-    
     <item>
       <title>Sprout</title>
-      <link>https://www.cssat.org/projects/sprout/</link>
+      <link>http://localhost:4321/projects/sprout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.cssat.org/projects/sprout/</guid>
-      <description>Sprout is a web-based application designed to help providers of child welfare services to streamline time-consuming business processes including tracking types and frequency of services rendered.
-The Sprout platform gives providers an intuitive way to request services for clients and to record delivered services. The data collected in Sprout increases our understanding of the relationship between effective service delivery and desired client outcomes. The application brings the ease of an e-commerce online ordering system to the social service sector.</description>
+      <guid>http://localhost:4321/projects/sprout/</guid>
+      <description>Sprout is a web-based application designed to help providers of child welfare services to streamline time-consuming business processes including tracking types and frequency of services rendered.&#xA;The Sprout platform gives providers an intuitive way to request services for clients and to record delivered services. The data collected in Sprout increases our understanding of the relationship between effective service delivery and desired client outcomes. The application brings the ease of an e-commerce online ordering system to the social service sector.</description>
     </item>
-    
   </channel>
 </rss>

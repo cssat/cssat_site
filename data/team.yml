@@ -31,6 +31,11 @@ teamMember:
     designation: Software Engineer
     description: Chris has almost a decade of experience in the public sector in various roles, including software and data engineering and program management. Chris holds a BA in International Studies from UW, an MBA from Saint Martin’s University, and is pursuing a BS in Computer Science from Oregon State University.
 
+  - image: images/team/rose.jpg
+    name: Rose Kroeker
+    designation: Data Scientist
+    description: Rose has over 10 years of experience in data analysis and presentation in both academic and non-profit settings. She holds a PhD in developmental psychology from the University of Washington and has a background in clinical work primarily focused on adults with developmental disabilities.
+  
   - image: images/team/keith.jpg
     name: Keith Ligon
     designation: Software Engineer

@@ -21,11 +21,6 @@ teamMember:
     designation: Director of Finance & Operations
     description: Marie’s vast knowledge and skills in operational processes and Title IV-E helped get CSSAT off the ground and now keeps it running smoothly. Marie holds a BA in German language from Gonzaga University and an MPA from the UW’s Evans School of Public Policy & Governance.
 
-  - image: images/team/justin.jpg
-    name: Justin Hart
-    designation: Project Manager
-    description: Justin has over a decade of experience as a technical project manager in software development and IT. He was also an English professor and administrator at multiple colleges and universities. He has a Masters in Fine Arts in Creative Writing from Eastern Washington University, and undergraduate degrees and technical certifications from Bellevue College and The Evergreen State College.
-  
   - image: images/team/chris.jpg
     name: Chris Hughes
     designation: Software Engineer

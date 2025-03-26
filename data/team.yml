@@ -6,15 +6,11 @@ teamMember:
     name: Jooree Ahn
     designation: Data Scientist
     description: Jooree’s data science, technical, and social service expertise helps ensure that CSSAT activities have a sound evidence base. Jooree is a graduate of the UW School of Social Work and has also earned an MPH at UW’s School of Public Health in social and behavioral sciences.
-    socialIcon:
-      #- icon : tf-ion-social-facebook
-      #  url : "#"
-      #- icon : tf-ion-social-twitter
-      #  url : "#"
-      #- icon : tf-ion-social-linkedin
-      #  url : "#"
-      #- icon : tf-ion-social-dribbble-outline
-      #  url : "#"
+      
+  - image: images/team/cassandra.jpg
+    name: Cassandra Beaulaurier
+    designation: Technology Project Manager
+    description: Cassandra has over 8 years of experience as a project manager leading technology projects for government and nonprofits. They hold a BS in Informatics from the University of Washington.
 
   - image: images/team/marie.jpg
     name: Marie Bolstad

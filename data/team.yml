@@ -4,7 +4,7 @@ headingSpan: Team
 teamMember:
   - image: images/team/jooree.jpg
     name: Jooree Ahn
-    designation: Data Scientist
+    designation: Data Scientist/Software Engineer
     description: Jooree’s data science, technical, and social service expertise helps ensure that CSSAT activities have a sound evidence base. Jooree is a graduate of the UW School of Social Work and has also earned an MPH at UW’s School of Public Health in social and behavioral sciences.
       
   - image: images/team/cassandra.jpg
@@ -29,7 +29,7 @@ teamMember:
   
   - image: images/team/keith.jpg
     name: Keith Ligon
-    designation: Software Engineer
+    designation: Senior Software Engineer
     description: Keith has over 20 years experience as a software engineer in various fields. He has worked on projects in defense, retail, supplychain and HR systems. Keith holds a BS in Computer Science from Virginia Tech with a math minor.
 
   - image: images/team/supriya.jpg
